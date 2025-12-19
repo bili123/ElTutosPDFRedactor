@@ -4,6 +4,17 @@ Small, limited, easy to use tool for redacting PDFs by drawing or searching.
 This tool has been written primarily for my own use case - with help of ChatGPT for Python syntax.
 It relies basically on Tkinter, MuPDF and Pillow.
 
+Features:
+
+- Redacting by drawing rectangles
+- Redacting by using simple search or regular expressions
+- Removing rectangles via right-click
+- Retaining not redacted text
+- Saves only copies of PDF, no overwriting
+- Extremely ugly GUI (sorry, but I dont' really care)
+
+<img width="551" height="416" alt="eltutospdfredactor" src="https://github.com/user-attachments/assets/e0239a5d-eecf-4379-b7ac-198af59c47a9" />
+
 ## Installation - Windows 11
 You can just use the portable, compiled EXE file from the release section, no installation needed.
 
