@@ -39,7 +39,7 @@ Alternatively you can use the Python script itself:
     cd ~/git
     git clone https://github.com/bili123/ElTutosPDFRedactor.git
     cd ElTutosPDFRedactor
-    python -m venv .venv
+    python3 -m venv .venv
     source .venv/bin/activate
     pip install -r ./requirements.txt
 
