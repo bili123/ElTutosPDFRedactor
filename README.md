@@ -37,7 +37,7 @@ Alternatively you can use the Python script itself:
     sudo apt install -y python3 python3-tk python3-pil python3-pil.imagetk python3-fitz git
     mkdir ~/git
     cd ~/git
-    git clone https://github.com/bili123/ElTutosPDFRedactor
+    git clone https://github.com/bili123/ElTutosPDFRedactor.git
     cd ElTutosPDFRedactor
     python -m venv .venv
     source .venv/bin/activate
