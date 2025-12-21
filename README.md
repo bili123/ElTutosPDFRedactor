@@ -34,7 +34,7 @@ Alternatively you can use the Python script itself:
 ## Installation - Ubuntu 24.04
 
     sudo apt update
-    sudo apt install -y python3 python3-tk python3-pil python3-pil.imagetk python3-fitz python3.12-venv git pip
+    sudo apt install -y python3 python3-tk python3-pil python3-pil.imagetk python3-fitz python3-venv git python3-pip
     mkdir ~/git
     cd ~/git
     git clone https://github.com/bili123/ElTutosPDFRedactor.git
